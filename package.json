@@ -1,18 +1,10 @@
 {
   "name": "react",
-  "version": "0.11.7",
-  "description": "React.js (JSX) language support, indentation, snippets, auto completion, reformatting",
-  "repository": "https://github.com/orktes/atom-react",
-  "homepage": "http://orktes.github.io/atom-react",
+  "version": "0.1.0",
+  "description": "React.js (JSX) language support, indentation, snippets, auto completion",
+  "repository": "https://github.com/Azakur4/atom-react",
   "license": "MIT",
   "engines": {
     "atom": ">=0.150.0"
-  },
-  "scripts": {
-    "test": "apm test"
-  },
-  "dependencies": {
-    "jsxformat": "~0.0.9",
-    "lodash": "~2.4.1"
   }
 }
