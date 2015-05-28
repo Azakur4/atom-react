@@ -3,10 +3,7 @@
 'comment': 'CoffeeScript Syntax: version 1'
 'fileTypes': [
   'cjsx'
-  'coffee'
-  'Cakefile'
-  'coffee.erb'
-  'cson'
+  'react.coffee'
 ]
 'firstLineMatch': '^#!.*\\bcoffee'
 'foldingStartMarker': '^\\s*class\\s+\\S.*$|.*(->|=>)\\s*$|.*[\\[{]\\s*$'
